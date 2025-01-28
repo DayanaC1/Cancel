@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1>Spongebob!</h1>
+  </head>
+  <body>
+    <!--links-->
+  <div class="container"><a href="opinion.html">Opinion</a>
+    <a href="Characters.html">Characters</a>
+    <link rel="stylesheet" href="style.css">
+    <!--Intro to show-->
+    <h1>What is Spongebob?</h1>
+    <p><h4>Spongebob is a popular kids show created by Stephen Hillenburg in 1999. As of Jan 2025 the show is still up and running on 15 seasons as of now on Nickelodeon.<p/> </h4>
+    <!--explanation-->
+    <p><h4>Within the last few years the shows content, scenes, story lines, and gags have become worst after Stephen Hillenbergs death Nov 26th, 2018. Not only has this show shows production been very horrible, older fans are disturbed and disatisfied with the episodes that have been produced, even parents are upset about some innapropriate scenes.<p/>
+    <h4/>
+    <div class="show"><img src="show.jpeg">
+      <img src="tv.jpeg">
+    </div>
+  <body/>
+<html/>
