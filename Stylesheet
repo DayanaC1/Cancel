@@ -1,0 +1,47 @@
+body {
+  background: #f5ff83;
+}
+p {
+  color: #ffffff;
+  text-align: center;
+}
+h1 { 
+color: #000000;
+text-align: center;
+}
+img{
+  width: 200px;
+  border-style: groove;
+  border-color: #000000;
+}
+.tv{
+ 
+}
+h4 {
+  color:black;
+}
+.container{
+ flex-direction: row;
+}
+.sponge{
+  border-bottom-style: solid;
+  border-top: solid;
+}
+.patrick{
+  border-bottom-style: solid;
+
+}
+.squidward{
+  border-bottom-style: solid;
+
+}
+.sandy{
+  border-bottom-style: solid;
+ 
+}
+.krabs{
+  border-bottom-style: solid;
+}
+.show{
+  align-items: center;
+}
